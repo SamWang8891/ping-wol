@@ -4,7 +4,7 @@ declare -A machines
 
 #######
 # Things to do:
-# 1. List out all the MAC address and their IP address you want to ping.
+# 1. List out all the MAC addresses and their IP address you want to ping.
 # 2. Check if the default absolute path to etherwake and ping commands are correct.
 # 3. Define the ethernet interface to send WOL package.
 # 4. Run `chmod +x run.sh` to make this script executable.
